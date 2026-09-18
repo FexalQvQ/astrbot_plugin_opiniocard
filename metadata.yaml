@@ -1,0 +1,6 @@
+name: 立场卡
+desc: OpinionCard - LLM判断观点时生成赞同/反驳/疑问立场卡片
+author: Fexal
+version: 1.0.0
+repo: DialoCard Team
+astrbot_version: ">=4.16,<5"
