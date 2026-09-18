@@ -1,6 +1,6 @@
 name: 立场卡
-desc: OpinionCard - LLM判断观点时生成赞同/反驳/疑问立场卡片
+desc: 基于魔法少女的魔女审判观点辩驳UI二改，用于LLM判断观点时生成赞同/反驳/疑问立场卡片
 author: Fexal
 version: 1.0.0
-repo: DialoCard Team
+repo: https://github.com/FexalQvQ/astrbot_plugin_opiniocard
 astrbot_version: ">=4.16,<5"
